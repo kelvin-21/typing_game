@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\TypingGame_mode_view\TypingGame_mode_view\bin\Debug\TypingGame_mode_view.exe.config
+C:\Users\user\Desktop\TypingGame_mode_view\TypingGame_mode_view\bin\Debug\TypingGame_mode_view.exe
+C:\Users\user\Desktop\TypingGame_mode_view\TypingGame_mode_view\bin\Debug\TypingGame_mode_view.pdb
+C:\Users\user\Desktop\TypingGame_mode_view\TypingGame_mode_view\obj\Debug\TypingGame_mode_view.csprojAssemblyReference.cache
+C:\Users\user\Desktop\TypingGame_mode_view\TypingGame_mode_view\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\TypingGame_mode_view\TypingGame_mode_view\obj\Debug\App.g.cs
+C:\Users\user\Desktop\TypingGame_mode_view\TypingGame_mode_view\obj\Debug\TypingGame_mode_view_MarkupCompile.cache
+C:\Users\user\Desktop\TypingGame_mode_view\TypingGame_mode_view\obj\Debug\TypingGame_mode_view_MarkupCompile.lref
+C:\Users\user\Desktop\TypingGame_mode_view\TypingGame_mode_view\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\TypingGame_mode_view\TypingGame_mode_view\obj\Debug\TypingGame_mode_view.g.resources
+C:\Users\user\Desktop\TypingGame_mode_view\TypingGame_mode_view\obj\Debug\TypingGame_mode_view.Properties.Resources.resources
+C:\Users\user\Desktop\TypingGame_mode_view\TypingGame_mode_view\obj\Debug\TypingGame_mode_view.csproj.GenerateResource.cache
+C:\Users\user\Desktop\TypingGame_mode_view\TypingGame_mode_view\obj\Debug\TypingGame_mode_view.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TypingGame_mode_view\TypingGame_mode_view\obj\Debug\TypingGame_mode_view.exe
+C:\Users\user\Desktop\TypingGame_mode_view\TypingGame_mode_view\obj\Debug\TypingGame_mode_view.pdb
